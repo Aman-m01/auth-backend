@@ -47,7 +47,7 @@ Thumbs.db
 ~$
 *.bak
 *.old
-
+ 
 # Coverage directories
 coverage/
 
