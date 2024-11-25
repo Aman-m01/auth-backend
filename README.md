@@ -34,7 +34,7 @@ This project is a Node.js-based backend for an authentication system. It provide
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Aman-m01/auth-backend.git
    cd auth-backend
 
    ```
